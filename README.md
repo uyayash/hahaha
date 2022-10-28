@@ -39,3 +39,4 @@ Start the local development server
 
 You can now access the server at http://localhost:8000
 "# HI-SHOP" 
+
